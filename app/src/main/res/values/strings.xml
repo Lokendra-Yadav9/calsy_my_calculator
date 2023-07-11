@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">calsy</string>
+    <string name="app_multi" translatable="false">*</string>
+    <string name="app_divide" translatable="false">/</string>
+    <string name="app_add" translatable="false">+</string>
+    <string name="app_substract" translatable="false">-</string>
+    <string name="app_equal" translatable="false">=</string>
+    <string name="app_back" translatable="false">C</string>
+    <string name="app_AC" translatable="false">AC</string>
+    <string name="app_percent" translatable="false">%</string>
+    <string name="app_point" translatable="false">.</string>
+    <string name="btn_1" translatable="false">1</string>
+    <string name="btn_2" translatable="false">2</string>
+    <string name="btn_3" translatable="false">3</string>
+    <string name="btn_4" translatable="false">4</string>
+    <string name="btn_5" translatable="false">5</string>
+    <string name="btn_6" translatable="false">6</string>
+    <string name="btn_7" translatable="false">7</string>
+    <string name="btn_8" translatable="false">8</string>
+    <string name="btn_9" translatable="false">9</string>
+    <string name="btn_0" translatable="false">0</string>
+    <string name="btn_00" translatable="false">00</string>
+</resources>
